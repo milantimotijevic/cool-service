@@ -1,0 +1,15 @@
+{
+  "name": "cool-service",
+  "version": "1.0.0",
+  "description": "A really cool service indeed...",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Milan",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^2.8.0",
+    "restify": "^6.3.4"
+  }
+}
